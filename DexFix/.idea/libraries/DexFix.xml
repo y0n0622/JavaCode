@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="DexFix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apktool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app_pack_signed.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
